@@ -23,8 +23,6 @@ public class V1 {
 		ArrayList<String>years2 = new ArrayList<>(set1);
 		Collections.sort(years2);
 		System.out.println(years2);
-		
-
 	}
 
 }
